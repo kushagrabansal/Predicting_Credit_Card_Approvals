@@ -1,2 +1,2 @@
 # Predicting_Credit_Card_Approvals
-ML project . Logistic regression model trains on a data set of credit card approval in order to predict for a new data point whether it can be approved or not .
+ML project . An automatic credit card approval predictor using machine learning techniques . Used logistic regression to calculate the likelihood of determining whether applicants are considered "good" or "bad" credit applicants to obtain a credit card.
